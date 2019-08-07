@@ -29,7 +29,6 @@
       <change beforePath="$PROJECT_DIR$/../../Peer-p/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Peer-p/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Peer-p/Peer-p.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Peer-p/Peer-p.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Peer-p/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Peer-p/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Responsive-Web-Design" beforeDir="false" afterPath="$PROJECT_DIR$/../../Responsive-Web-Design" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Skills/Successful.md" beforeDir="false" />
@@ -102,16 +101,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3675">
+            <state relative-caret-position="-1785">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
@@ -259,15 +258,16 @@
       <workItem from="1563176672402" duration="12904000" />
       <workItem from="1563444904656" duration="735000" />
       <workItem from="1564075305226" duration="565000" />
-      <workItem from="1565180661877" duration="1948000" />
+      <workItem from="1565180661877" duration="2882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82856000" />
+    <option name="totallyTimeSpent" value="83790000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20819671" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -469,17 +469,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1785">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3675">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
