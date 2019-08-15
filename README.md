@@ -11,4 +11,4 @@ I created this project to practice my skills with react.
 ## Technologies
 The technologies used for this project are HTML, CSS And React.
 
-Thanks for reading.
+Thanks for reading, Olivier.
